@@ -37,10 +37,11 @@ Email-filter/
 ## 📊 Dataset
 
 The dataset contains email messages categorized as Safe Email and Phishing Email.
+## 📊 Dataset
 
-To keep this GitHub repository lightweight, the dataset is hosted separately on Hugging Face.
+The dataset used in this project is available on Kaggle.
 
-**Dataset Download:** [Email Classification Dataset](YOUR_HUGGINGFACE_DATASET_LINK)
+[Download Phishing Email Dataset](https://www.kaggle.com/datasets/mathesh2004/phishing-email-dataset-and-its-cleaned-dataset)
 
 Download the dataset and place the CSV file in the project directory before running the notebook.
 
