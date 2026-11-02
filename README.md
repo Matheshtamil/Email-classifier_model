@@ -34,12 +34,11 @@ Email-filter/
 └── .gitignore
 ```
 
-## 📊 Dataset
 
-The dataset contains email messages categorized as Safe Email and Phishing Email.
 ## 📊 Dataset
 
 The dataset used in this project is available on Kaggle.
+The dataset contains email messages categorized as Safe Email and Phishing Email.
 
 [Download Phishing Email Dataset](https://www.kaggle.com/datasets/mathesh2004/phishing-email-dataset-and-its-cleaned-dataset)
 
